@@ -25,7 +25,7 @@ Please ensure you have the following installed/present in your computer beforeha
 
 Now just drop the [vol3-compile.bat](./vol3-compile.bat) in the volatility folder and run it. Demo shown below.
 
-
+https://github.com/stuxnet999/volatility-binaries/assets/31406812/6feabff9-b75a-4c10-9d54-4845cb757d70
 
 ### Volatility 2.6.1
 
@@ -37,6 +37,6 @@ Please ensure you have the following installed/present in your computer beforeha
 
 Now just drop the [vol2-compile.bat](./vol2-compile.bat) in the volatility folder and run it. Demo shown below.
 
-
+https://github.com/stuxnet999/volatility-binaries/assets/31406812/69edd2fa-6e7a-4051-86c3-cf45b29d8a02
 
 If you're interested in detailed reading of compiling it - https://stuxnet999.github.io/dfir/compiling-volatility-windows/
