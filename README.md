@@ -3,11 +3,13 @@ Contains compiled binaries of Volatility
 
 For any issues, contact me at https://twitter.com/_abhiramkumar
 
-| Binary | SHA1 hash |
+| Binary | SHA1 hash | Compiled On |
 |:------:|:---------:|
-| Vol2.6.1/volatility.exe | dd6488a9265c5ad048e5a9b06a299524295812ab |
-| Vol3/Vol3-2.5.2/vol.exe | 4988278cc95648293d2110b757bf2ee01d244742 |
-| Vol3/Volshell/volshell.exe | d32a9efaff607802bb00b1f3f25b8ef951f4c1c9 |
+| Vol2.6.1/volatility.exe | dd6488a9265c5ad048e5a9b06a299524295812ab | N/A |
+| Vol3/Vol3-2.5.2/vol.exe | a2c669d7ff847707c3717cd3cef7310c953306d0 | 2024-02-14 |
+| Vol3/Volshell/volshell.exe | 3753e09dd90f17a8f2bb534edca9f8608a2e8081 | 2024-02-14 |
+
+**Note:** The binaries and hashes provided are as a result of compilation from the stable releases of Volatility3. If you want compiled binaries corresponding to the development branch, please follow the below steps and compile it on your local machine.
 
 I will try to keep the binaries up to date as much as I can.
 
@@ -19,9 +21,9 @@ I have now pushed 2 batch files for compiling both Volatility 3 and Volatility 2
 
 Please ensure you have the following installed/present in your computer beforehand
 
-+ Python 3.10
++ Python 3.12.2
 + MS Visual C++ 14.0 or greater
-+ Download/pull the latest version of volatility repo to your computer.
++ Download/pull the latest branch of volatility repo to your computer.
 
 Now just drop the [vol3-compile.bat](./vol3-compile.bat) in the volatility folder and run it. Demo shown below.
 
