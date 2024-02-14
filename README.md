@@ -4,7 +4,7 @@ Contains compiled binaries of Volatility
 For any issues, contact me at https://twitter.com/_abhiramkumar
 
 | Binary | SHA1 hash | Compiled On |
-|:------:|:---------:|
+|:------:|:---------:|:-----------:|
 | Vol2.6.1/volatility.exe | dd6488a9265c5ad048e5a9b06a299524295812ab | N/A |
 | Vol3/Vol3-2.5.2/vol.exe | a2c669d7ff847707c3717cd3cef7310c953306d0 | 2024-02-14 |
 | Vol3/Volshell/volshell.exe | 3753e09dd90f17a8f2bb534edca9f8608a2e8081 | 2024-02-14 |
