@@ -5,7 +5,7 @@ For any issues, contact me at https://twitter.com/_abhiramkumar
 
 | Binary | SHA1 hash | Compiled On |
 |:------:|:---------:|:-----------:|
-| Vol2.6.1/volatility.exe | dd6488a9265c5ad048e5a9b06a299524295812ab | N/A |
+| Vol2.6.1/vol2.exe | 601ecac617185c8f811edee30a449a46fb6ff8a4 | N/A |
 | Vol3/Vol3-2.7.0/vol3.exe | 3d70bd87a6a189288008a093af31ffaaa8586796 | 2024-06-07 |
 | Vol3/Volshell/volshell3.exe | 9e32f767fcf0d6e11c2c2f873bcea00b56b27166 | 2024-06-07 |
 | Vol3/Vol3-2.5.2/vol.exe | a2c669d7ff847707c3717cd3cef7310c953306d0 | 2024-02-14 |

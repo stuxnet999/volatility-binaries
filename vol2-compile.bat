@@ -9,5 +9,5 @@ pip install Pillow==2.7.0
 pip install openpyxl
 pip install ujson==1.35
 pip install pyinstaller==3.5
-pyinstaller --onefile pyinstaller.spec
+pyinstaller --onefile pyinstaller.spec --hidden-import csv
 move /y dist\volatility.exe dist\vol2.exe
