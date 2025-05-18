@@ -6,10 +6,11 @@ For any issues, contact me at https://twitter.com/_abhiramkumar
 | Binary | SHA1 hash | Compiled On |
 |:------:|:---------:|:-----------:|
 | Vol2.6.1/vol2.exe | 601ecac617185c8f811edee30a449a46fb6ff8a4 | N/A |
+| Vol3/Vol3-2.26.0/vol3.exe | 9c25d126700874fac4094435e910901e18c0790a | 2025-05-18 |
 | Vol3/Vol3-2.11.0/vol3.exe | 05f1b623544631518f2864329700ab50ac5457fb | 2025-01-22 |
 | Vol3/Vol3-2.8.0/vol3.exe | 3d96d21b4baed84d85ad4db56ac7378187a70925 | 2024-10-11 |
 | Vol3/Vol3-2.7.0/vol3.exe | 3d70bd87a6a189288008a093af31ffaaa8586796 | 2024-06-07 |
-| Vol3/Volshell/volshell3.exe | 9e32f767fcf0d6e11c2c2f873bcea00b56b27166 | 2024-06-07 |
+| Vol3/Volshell/volshell3.exe | 85183115cc2242ee18cc79a6f7a9328409dfe628 | 2025-05-18 |
 | Vol3/Vol3-2.5.2/vol.exe | a2c669d7ff847707c3717cd3cef7310c953306d0 | 2024-02-14 |
 
 **Note:** The binaries and hashes provided are as a result of compilation from the stable releases of Volatility3. If you want compiled binaries corresponding to the development branch, please follow the below steps and compile it on your local machine.
