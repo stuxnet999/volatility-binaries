@@ -1,4 +1,9 @@
+# THIS REPO IS NOW ARCHIVED
+
+**Note**: With every stable release, Volatility 3 now provides [Windows binaries](https://github.com/volatilityfoundation/volatility3/releases).
+
 # volatility-binaries
+
 Contains compiled binaries of Volatility
 
 For any issues, contact me at https://twitter.com/_abhiramkumar
